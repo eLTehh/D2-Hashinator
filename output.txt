@@ -1,0 +1,1 @@
+samplehash=sample.png
